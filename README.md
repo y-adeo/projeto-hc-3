@@ -1,2 +1,4 @@
-# projeto-hc-3
-Estudos HTML - Primeiro projeto Hiring Coders #3
+# Projeto para estudo HTML
+### Hiring Coders #3
+
+Site para auxiliar nos estudos: https://www.tc.df.gov.br/ice4/vordf/outros/html-comandos.html
